@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PureFindr.
 //
-//  Created by Franco Pieri on 3/20/23.
+//  Created by Franco Pieri 
 //
 
 import Foundation
