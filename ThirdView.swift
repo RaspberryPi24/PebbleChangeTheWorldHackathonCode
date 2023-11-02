@@ -2,7 +2,7 @@
 //  ThirdView.swift
 //  PureFindr.
 //
-//  Created by Franco Pieri on 3/25/23.
+//  Created by Franco Pieri 
 //
 
 import Foundation
