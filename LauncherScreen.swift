@@ -2,7 +2,7 @@
 //  LauncherScreen.swift
 //  PureFindr.
 //
-//  Created by Franco Pieri on 4/1/23.
+//  Created by Franco Pieri 
 //
 
 import Foundation
