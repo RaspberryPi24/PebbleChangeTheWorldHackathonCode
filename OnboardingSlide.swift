@@ -2,7 +2,7 @@
 //  OnboardingSlide.swift
 //  PureFindr.
 //
-//  Created by Franco Pieri on 4/3/23.
+//  Created by Franco Pieri 
 //
 
 import Foundation
